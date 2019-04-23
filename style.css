@@ -83,7 +83,12 @@
 	opacity: 0.83;
     font-family: sans-serif;
     color: black;
+
+}
+
+#news h2 {
     
+    text-align: center;
 }
 
 
@@ -108,9 +113,11 @@ h3 a {
     
     color: darkred;
     font-family: sans-serif;
+    text-decoration: none;
 }
 
 h3 a:hover {
     
     color: indianred;
+     text-decoration: none;
 }
