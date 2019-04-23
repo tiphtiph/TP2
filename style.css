@@ -14,7 +14,7 @@
     margin: 0;
     text-align: center;
     color : orange;
-    font-family: monospace;
+    font-family: sans-serif;
     text-transform: uppercase;
     font-weight: 100;
 
@@ -74,7 +74,10 @@
 	font-size: 160%;
 	margin: 0 0 .5em;
     text-align: center;
+    font-family: sans-serif;
 }
+
+
 
 #news
 {	
@@ -92,7 +95,9 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+    font-family: sans-serif;
 }
+
 
 #footer
 {
@@ -102,14 +107,22 @@
 	height: 1%;
     color: orange;
     font-weight: 100;
+    font-family: sans-serif;
 }
 
 #footer a {
     
     color: orange;
+    font-family: sans-serif;
 }
 
 h3 a {
     
     color: orange;
+    font-family: sans-serif;
+}
+
+h3 a:hover {
+    
+    color: darkorange;
 }
