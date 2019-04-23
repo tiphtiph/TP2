@@ -6,7 +6,6 @@
 
 #header
 {
-	background: #ccc;
 	padding: 20px;
 }
 
@@ -14,8 +13,10 @@
     
     margin: 0;
     text-align: center;
-    color : crimsom;
+    color : orange;
     font-family: monospace;
+    text-transform: uppercase;
+    font-weight: 100;
 
 }
 
@@ -72,6 +73,7 @@
 	color: #000;
 	font-size: 160%;
 	margin: 0 0 .5em;
+    text-align: center;
 }
 
 #news
@@ -95,8 +97,19 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+    color: orange;
+    font-weight: 100;
+}
+
+#footer a {
+    
+    color: orange;
+}
+
+h3 a {
+    
+    color: orange;
 }
