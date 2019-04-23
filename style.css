@@ -10,7 +10,14 @@
 	padding: 20px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { 
+    
+    margin: 0;
+    text-align: center;
+    color : crimsom;
+    font-family: monospace;
+
+}
 
 #navigation
 {
